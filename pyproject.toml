@@ -1,0 +1,20 @@
+[project]
+name = "openai-gym-reinforcement-learning-lab"
+version = "0.1.0"
+description = "A structured collection of reinforcement learning experiments built around OpenAI Gym usage patterns."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gymnasium>=1.1.0",
+    "gymnasium[box2d]>=1.1.0",
+    "jupyterlab>=4.0.0",
+    "matplotlib>=3.9.0",
+    "numpy>=2.0.0",
+    "pandas>=2.2.0",
+    "torch>=2.5.0",
+    "tqdm>=4.66.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"

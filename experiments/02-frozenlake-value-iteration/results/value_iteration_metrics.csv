@@ -1,0 +1,6 @@
+metric,value
+num_iterations,571.0
+final_delta,9.788020394196906e-11
+success_rate,0.7314
+average_reward,0.7314
+average_episode_length,44.5438
