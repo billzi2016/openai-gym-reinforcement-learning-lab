@@ -1,4 +1,4 @@
 metric,value
-success_rate,0.012
-average_reward,0.012
-average_episode_length,7.7328
+success_rate,0.0124
+average_reward,0.0124
+average_episode_length,7.805

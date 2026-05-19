@@ -3,6 +3,6 @@ device,mps
 num_envs,24
 vec_env_mode,async
 total_updates,400
-mean_rollout_reward_last_10,0.01712239570915699
-mean_entropy_last_10,0.03346717266831547
-episode_success_mean_last_50,0.66
+mean_rollout_reward_last_10,0.017545572761446238
+mean_entropy_last_10,0.008447389504484211
+episode_success_mean_last_50,0.74

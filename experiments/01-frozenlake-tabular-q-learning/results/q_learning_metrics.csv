@@ -1,5 +1,5 @@
 metric,value
-overall_success_rate,0.39492
-average_reward,0.39492
-average_episode_length,31.17778
+overall_success_rate,0.39258
+average_reward,0.39258
+average_episode_length,30.4901
 final_epsilon,0.05
