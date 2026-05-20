@@ -1,0 +1,5 @@
+metric,value
+overall_success_rate,0.9677
+average_reward,-89.04846666666667
+cliff_fall_rate,0.11893333333333334
+final_epsilon,0.05

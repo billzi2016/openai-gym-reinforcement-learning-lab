@@ -1,10 +1,10 @@
 metric,value
 device,mps
-num_envs,8
+num_envs,12
 vec_env_mode,sync
-total_updates,400
+total_updates,122
 recent_episode_return_last_50,0.0
 recent_success_rate_last_50,0.0
-evaluation_average_return,-843.4834397658009
-evaluation_return_std,700.9933764450616
-evaluation_success_rate,0.0
+evaluation_average_return,257.7251513535614
+evaluation_return_std,27.399946582399437
+evaluation_success_rate,0.99

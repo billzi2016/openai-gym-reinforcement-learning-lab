@@ -1,0 +1,8 @@
+metric,value
+device,mps
+num_episodes,1200
+recent_episode_return_last_50,186.31969210633648
+recent_success_rate_last_50,0.64
+evaluation_average_return,236.87372062526734
+evaluation_return_std,81.86320590539127
+evaluation_success_rate,0.74
