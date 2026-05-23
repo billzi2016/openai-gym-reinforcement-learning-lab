@@ -1,0 +1,4 @@
+rollout_index,seed,total_reward,steps
+1,30042,96.0,96
+2,30043,91.0,91
+3,30044,87.0,87

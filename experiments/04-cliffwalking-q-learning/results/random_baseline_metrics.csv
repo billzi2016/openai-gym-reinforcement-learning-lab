@@ -1,0 +1,5 @@
+metric,value
+success_rate,0.0232
+average_reward,-2066.5176
+average_episode_length,198.249
+cliff_fall_rate,0.9976

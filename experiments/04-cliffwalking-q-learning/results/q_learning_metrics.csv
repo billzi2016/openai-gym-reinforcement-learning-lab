@@ -1,0 +1,10 @@
+metric,value
+overall_success_rate,0.9657333333333333
+average_reward,-149.5061
+average_episode_length,28.1915
+cliff_fall_rate,0.29436666666666667
+final_epsilon,0.05
+greedy_eval_return,-13.0
+greedy_eval_steps,13.0
+greedy_eval_success,1.0
+greedy_eval_cliff_fall,0.0

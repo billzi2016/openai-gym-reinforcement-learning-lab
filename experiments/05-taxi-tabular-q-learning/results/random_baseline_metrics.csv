@@ -1,0 +1,5 @@
+metric,value
+success_rate,0.04733333333333333
+average_reward,-770.9676666666667
+average_episode_length,196.53166666666667
+average_illegal_actions,63.93666666666667

@@ -1,0 +1,10 @@
+metric,value
+training_win_rate,0.394615
+training_draw_rate,0.06719
+training_loss_rate,0.538195
+training_average_reward,-0.14358
+final_epsilon,0.05
+eval_average_reward,-0.0568
+eval_win_rate,0.435
+eval_draw_rate,0.0732
+eval_loss_rate,0.4918

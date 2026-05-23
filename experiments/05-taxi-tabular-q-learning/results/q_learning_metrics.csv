@@ -1,0 +1,10 @@
+metric,value
+overall_success_rate,0.972
+average_reward,-37.91976
+average_episode_length,25.3626
+average_illegal_actions,3.66324
+final_epsilon,0.05
+greedy_eval_return,8.0
+greedy_eval_steps,13.0
+greedy_eval_success,1.0
+greedy_eval_illegal_actions,0.0

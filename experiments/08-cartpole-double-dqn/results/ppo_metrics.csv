@@ -1,0 +1,11 @@
+metric,value
+device,mps
+num_envs,24
+total_timesteps,100000
+recent_episode_return_last_50,500.0
+recent_episode_length_last_50,500.0
+recent_stability_rate_last_50,1.0
+evaluation_average_return,500.0
+evaluation_return_std,0.0
+evaluation_average_length,500.0
+evaluation_stability_rate,1.0

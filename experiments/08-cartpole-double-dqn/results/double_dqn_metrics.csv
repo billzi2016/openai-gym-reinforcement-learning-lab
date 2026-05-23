@@ -1,0 +1,10 @@
+metric,value
+device,cpu
+total_timesteps,120000
+recent_episode_return_last_50,63.04
+recent_episode_length_last_50,63.04
+recent_stability_rate_last_50,0.0
+evaluation_average_return,89.45
+evaluation_return_std,11.330820799924425
+evaluation_average_length,89.45
+evaluation_stability_rate,0.0
