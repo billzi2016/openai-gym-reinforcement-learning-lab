@@ -1,0 +1,12 @@
+metric,value
+device,cpu
+num_envs,24
+total_timesteps,1200000
+recent_episode_return_last_50,182.7560021209717
+recent_episode_length_last_50,1541.24
+recent_success_rate_last_50,0.58
+evaluation_average_return,214.30294799804688
+evaluation_return_std,111.58724212646484
+evaluation_success_rate,0.7166666666666667
+evaluation_average_final_hull_angle,-0.1951885444112122
+evaluation_average_mean_abs_action,0.4371278177080111

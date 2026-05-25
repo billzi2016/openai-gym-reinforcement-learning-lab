@@ -1,0 +1,6 @@
+metric,value
+average_reward,-200.0
+average_episode_length,200.0
+success_rate,0.0
+average_final_position,-0.528937253728509
+average_max_position,-0.3855936154425144

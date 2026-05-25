@@ -1,0 +1,6 @@
+metric,value
+average_reward,-100.15507507324219
+success_rate,0.0
+average_episode_length,588.475
+average_final_hull_angle,0.31697323471307753
+average_mean_abs_action,0.49817418826181664

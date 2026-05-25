@@ -1,0 +1,11 @@
+metric,value
+device,cpu
+total_timesteps,120000
+recent_episode_return_last_50,-150.87145328
+recent_episode_length_last_50,200.0
+recent_quality_rate_last_50,0.94
+evaluation_average_return,-116.66647383692266
+evaluation_return_std,69.9465471135066
+evaluation_quality_rate,0.99
+evaluation_average_final_angle_error,0.024852410722523928
+evaluation_average_mean_abs_angular_velocity,0.4339156312524503
